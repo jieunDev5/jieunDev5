@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+
 # STACK
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java">
- </p>
+
+![title](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java){: width="300" height="300"){: .center}
 
