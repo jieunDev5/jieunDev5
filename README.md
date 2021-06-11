@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-# STACK H1
+<p align="center">
+# STACK
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java">
+ </p>
+
