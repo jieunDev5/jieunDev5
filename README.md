@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there 👋<br/>
+✨I'm a **mid-level** web developer.
+I've been using java, spring, oracle.<br/>
+🌱I'm currently learning flutter.
+
 
 <!--
 **jieunDev5/jieunDev5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +20,9 @@ Here are some ideas to get you started:
 -->
 
 
-# 🌱STACK
-<p align="center" >
+### 🔭STACK
+---
+<p align="left" >
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java">
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle">
 <img src="https://img.shields.io/badge/-Spring-AAFA82?style=flat&logo=Spring"> 
